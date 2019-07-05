@@ -7,8 +7,14 @@ OpenVPN GUI
   :target: https://ci.appveyor.com/project/mattock/openvpn-gui
   :alt: AppVeyor status
 
+
+
+
 Installation Instructions for OpenVPN GUI for Windows
 #####################################################
+
+## To build : https://github.com/jayprakashkumar1/openvpn-gui/blob/master/BUILD.rst
+
 
 OpenVPN-GUI has been bundled with OpenVPN installers for a long time, so there
 is rarely a need to install it separately. Bleeding-edge
